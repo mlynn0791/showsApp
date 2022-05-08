@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
+ShowsApp is a frontend web application created within Angular, where end users can search for their favorite television shows, which are fetched from a REST API. This application was created using the programming languages TypeScript, JavaScript, HTML, & CSS. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
